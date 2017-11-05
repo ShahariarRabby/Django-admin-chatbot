@@ -13,7 +13,7 @@ Admin chatbot
 
 
 
-##### Convert handwritten text from image to text
+##### Guide
 
 ## Getting Started
 
